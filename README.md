@@ -12,7 +12,7 @@
 
 > In this exercise you will learn how to deploy a FastAPI application as a systemd service. Furthermore we will explore how to interact with this API using `curl`.
 
-### Introduction
+ Introduction
 
 FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints. It is designed to be easy to use while enabling the development of robust, production-grade web services. One powerful way to manage and run such services on Linux systems is with `systemd`, which provides tools to supervise and control services with features like automatic restarts, logging integration, and startup configuration.
 
